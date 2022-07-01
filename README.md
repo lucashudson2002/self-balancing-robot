@@ -27,6 +27,7 @@
 - 1 MPU6050
 - 1 NRF24L01
 - 1 HC-05
+- 1 placa de fenolite ?cmX?cm
 - Arduino nano ou uno
 - 2 baterias de lítio de 4.2V
 - 1 chave liga/desliga
