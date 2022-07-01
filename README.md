@@ -7,13 +7,13 @@
 <p> bla bla bla </p>
 
 <h2 align="center">  📁 Descrição dos arquivos </h2>
-<ul align="center">
+<ul>
 	<li> </li>
 	<li> </li>
 </ul>
 
 <h2 align="center">  🛠️ Lista de itens </h2>
-<ul align="center">
+<ul>
 	<li> </li>
 	<li> </li>
 </ul>
@@ -23,3 +23,4 @@
 - ``C++``
 - ``POO``
 - ``PID controller``
+- ``Java 8``
