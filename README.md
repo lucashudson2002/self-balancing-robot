@@ -1,4 +1,9 @@
-<h1 align="center"> Self Balancing Robot </h1>
+<style>
+h1,h2 {
+    text-align: center;
+} 
+</style>
+<h1> Self Balancing Robot </h1>
 <p align="center"> 
     :construction:  Projeto em construção  :construction:
 </p>
