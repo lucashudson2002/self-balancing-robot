@@ -1,5 +1,6 @@
 <h1 align="center"> Self Balancing Robot </h1>
 <p  align="center"> 
+    This is a self balancing robot made with arduino, that is, a robot with 2 wheels that will have to balance itself. <br>
     :construction:  Projeto em construção  :construction:
 </p>
 
