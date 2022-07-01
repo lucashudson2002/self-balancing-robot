@@ -15,6 +15,7 @@
 - Existe um limite mínimo de tensão da bateria para que o robô funcione normalmente, abaixo desse nível será sinalizado mau funcionamento.
 
 <h2 align="center">  📁 Descrição dos arquivos </h2>
+
 - main.ino -> arquivo que fica o programa principal
 
 <h2 align="center">  🛠️ Lista de itens </h2>
