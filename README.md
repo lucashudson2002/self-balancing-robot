@@ -22,6 +22,7 @@
 
 <h2 align="center">  ✔️ Técnicas e tecnologias utilizadas </h2>
 <p>
+	
 	- ``Arduino``
 
 	- ``C++``
@@ -29,4 +30,5 @@
 	- ``POO``
 
 	- ``PID controller``
+	
 </p>
