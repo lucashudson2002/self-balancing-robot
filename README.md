@@ -1,10 +1,10 @@
 <h1 align="center"> Self Balancing Robot </h1>
-<p align="center"> 
+<p> 
     :construction:  Projeto em construção  :construction:
 </p>
 
 <h2 align="center">  Resumo do projeto </h2>
-<p align="center"> bla bla bla </p>
+<p> bla bla bla </p>
 
 <h2 align="center">  📁 Descrição dos arquivos </h2>
 <ul align="center">
