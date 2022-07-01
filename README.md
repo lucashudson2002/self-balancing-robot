@@ -5,7 +5,7 @@
 
 <h2 align="center">  Resumo do projeto </h2>
 
-- Será utilizado a ponte-H L298N para controlar os 2 motores, conectados cada um a um encoder para ter mais precisão no controle.
+- Será utilizado o motor driver L298N para controlar os 2 motores, conectados cada um a um encoder para ter mais precisão no controle.
 - A L298N tem uma saída de 5V que irá alimentar diretamente o arduino e outros componentes com essa tensão
 - Poderemos controlar o robô por um controle remoto DIY baseado na transmissão por rádio (NRF24L01).
 - E também pelo celular (bluetooth - HC-05) através de um app feio no MIT App Invetor.
