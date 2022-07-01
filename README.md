@@ -19,8 +19,9 @@
 </ul>
 
 <h2 align="center">  ✔️ Técnicas e tecnologias utilizadas </h2>
-
-- ``Arduino``
-- ``C++``
-- ``POO``
-- ``PID controller``
+<ul align="center">
+	<li> ``Arduino`` </li>
+	<li> ``C++`` </li>
+	<li> ``POO`` </li>
+	<li> ``PID controller`` </li>
+</ul>
