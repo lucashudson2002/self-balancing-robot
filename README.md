@@ -4,7 +4,9 @@
 </p>
 
 <h2 align="center">  Resumo do projeto </h2>
-<p> bla bla bla </p>
+<p>
+	bla bla bla 
+</p>
 
 <h2 align="center">  📁 Descrição dos arquivos </h2>
 <ul>
@@ -19,8 +21,7 @@
 </ul>
 
 <h2 align="center">  ✔️ Técnicas e tecnologias utilizadas </h2>
-- ``Arduino``
-- ``C++``
-- ``POO``
-- ``PID controller``
-- ``Java 8``
+<p>
+	- ´´texto´´
+	- ``texto``
+</p>
