@@ -21,8 +21,8 @@
 </ul>
 
 <h2 align="center">  ✔️ Técnicas e tecnologias utilizadas </h2>
-## ✔️ Técnicas e tecnologias utilizadas
 
-- ``Java 8``
-- ``InteliJ IDEA``
-- ``Paradigma de orientação a objetos``
+- ``Arduino``
+- ``C++``
+- ``POO``
+- ``PID controller``
