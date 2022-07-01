@@ -3,7 +3,7 @@
     :construction:  Projeto em construção  :construction:
 </p>
 
-<h2 align="center">  Resumo do projeto </h2>
+<h2 align="center">  🔨 Resumo do projeto </h2>
 
 - Será utilizado o motor driver L298N para controlar os 2 motores, conectados cada um a um encoder para ter mais precisão no controle.
 - A L298N tem uma saída de +5V que irá alimentar diretamente o arduino e outros componentes com essa tensão
