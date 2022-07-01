@@ -23,5 +23,6 @@
 <h2 align="center">  ✔️ Técnicas e tecnologias utilizadas </h2>
 <p>
 	- ´´texto´´
+	
 	- ``texto``
 </p>
