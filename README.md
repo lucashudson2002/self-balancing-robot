@@ -21,19 +21,21 @@
 
 <h2 align="center">  🛠️ Lista de itens </h2>
 
+- 1 placa de fenolite ?cmX?cm
+- 3 placas de acrílico preto ?cmX?cm
+- Arduino nano
 - 2 motores com encoder
 - 2 rodas
 - 1 L298N
-- 1 MPU6050
 - 1 NRF24L01
 - 1 HC-05
-- 1 placa de fenolite ?cmX?cm
-- Arduino nano ou uno
-- 2 baterias de lítio de 4.2V
+- 1 MPU6050
+- 1 HC-SR04
+- 2 baterias de lítio de 4.2V + suporte
 - 1 chave liga/desliga
 - 1 regulador de tensão setp down LM2596
-- Divisor de tensão e led vermelhor par ler/sinalizar nível de bateria
-- Capacitores, resistores, diodo.
+- Divisor de tensão e led vermelho par medir/sinalizar nível da bateria
+- Capacitores, resistores, diodo, parafusos, porcas, bornes KRE 2 vias, barras de pinos fêmea e macho.
 
 <h2 align="center">  ✔️ Técnicas e tecnologias utilizadas </h2>
 
