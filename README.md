@@ -17,7 +17,8 @@
 
 <h2 align="center">  📁 Descrição dos arquivos </h2>
 
-- main.ino -> arquivo que fica o programa principal
+- Self-Balancing-Robot-main.ino -> arquivo que fica o programa principal
+- diagrama.fzz -> arquivo que fica todas as ligações do projeto
 
 <h2 align="center">  🛠️ Lista de itens </h2>
 
