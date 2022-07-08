@@ -8,7 +8,6 @@
 #define BIN1 8
 #define BIN2 9
 #define PWMB 6
-#define STBY A7
 //MPU6050
 #define SDA A4
 #define SCL A5
@@ -27,6 +26,7 @@
 //BATERIA
 #define DIVISOR A6
 #define LED 10
+#define BUZZER A7
 
 void setup{
 	Serial.begin(9600);

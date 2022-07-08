@@ -13,6 +13,8 @@
 - Para fazer o controle, será usado o PID controller (controlador proporcional integral derivativo).
 - O regulador buck step down vai fornecer +6V ao motores através da ponte-H, a bateria vai direto alimentar o arduino.
 - Existe um limite mínimo de tensão da bateria para que o robô funcione normalmente, abaixo desse nível será sinalizado mau funcionamento.
+- Possui um buzzer para emitir sinais sonoros, como de buzina, de aviso de baixa bateria, ou de aviso de obstáculo.
+- Para ligar/desligar o carro haverá um interruptor para esse funcionamento.
 
 <h2 align="center">  📁 Descrição dos arquivos </h2>
 
@@ -33,6 +35,7 @@
 - 2 baterias de lítio de 4.2V + suporte
 - 1 chave liga/desliga
 - 1 regulador de tensão buck setp down LM2596
+- 1 buzzer
 - Divisor de tensão e led vermelho para medir/sinalizar nível da bateria
 - Capacitores, resistores, diodo, parafusos, porcas, bornes KRE 2 vias, barras de pinos fêmea e macho, fios, solda.
 
