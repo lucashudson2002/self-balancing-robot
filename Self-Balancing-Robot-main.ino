@@ -1,12 +1,20 @@
+//**bibliotecas**
+#include <HCSR04.h>
+#include <TB6612FNG.h>
+#include <RF24.h>
+#include <SPI.h>
+//MPU6050
+
+//**pinos**
 //ENCODER
 #define ENC1 2
 #define ENC2 3
 //PONTE-H
 #define PWMA 5
-#define AIN1 4
-#define AIN2 7
-#define BIN1 8
-#define BIN2 9
+#define IN1A 4
+#define IN2A 7
+#define IN1B 8
+#define IN2B 9
 #define PWMB 6
 //MPU6050
 #define SDA A4
@@ -28,10 +36,23 @@
 #define LED 10
 #define BUZZER A7
 
-void setup{
-	Serial.begin(9600);
+//**variáveis**
+TB6612FNG robo(IN1B, IN2B, IN1A, IN2A, PWMB, PWMA); //B são as rodas da esquerda, e A são as rodas da direita
+HCSR04 hcsr04(TRIG, ECHO);
+//objeto pro MPU6050
+//objeto pro nrf
+
+//**declaração das funções**
+
+
+void loop(){
+  Serial.begin(9600);
+  robo.begin();
+  hcsr04.begin();
 }
 
-void loop{
+void setup(){
 
 }
+
+//**definição das funções**
