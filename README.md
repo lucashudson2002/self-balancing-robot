@@ -6,9 +6,11 @@
 
 <h2 align="center">  🔗 Resumo do projeto </h2>
 
-- Será utilizado o motor driver TB6612FNG para controlar os 2 motores, conectados cada um a um encoder para ter mais precisão no controle.
+- Será utilizado o dual motor driver TB6612FNG para controlar os 2 motores, conectados cada um a um encoder para ter mais precisão no controle.
+- Para controlar a ponte-H TB6612FNG, utilizarei a biblioteca que eu mesmo criei: <a href="https://github.com/lucashudson2002/TB6612FNG" target="_blank">github.com/lucashudson2002/TB6612FNG</a>.
 - Poderemos controlar o robô por um controle remoto DIY baseado na transmissão por rádio (NRF24L01).
 - E também pelo celular (bluetooth - HC-05) através de um app feio no MIT App Invetor.
+- Possui um senhor de distância na frente (HC-SR04) para impedir que o carro bata com algum obstáculo, ou para evitar obstáculo caso esteja no modo de controle autônomo. Usado também uma biblioteca criada por mim <a href="https://github.com/lucashudson2002/HCSR04" target="_blank">github.com/lucashudson2002/HCSR04</a>.
 - Através do acelerômetro/giroscópio de 3 eixos MPU6050 será medido a angulação do rôbo, que deverá sempre se manter a aproximadamente 90° no eixo x.
 - Para fazer o controle, será usado o PID controller (controlador proporcional integral derivativo).
 - O regulador buck step down vai fornecer +6V ao motores através da ponte-H, a bateria vai direto alimentar o arduino.
