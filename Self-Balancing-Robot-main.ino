@@ -43,12 +43,20 @@ HCSR04 hcsr04(TRIG, ECHO);
 //objeto pro nrf
 
 //**declaração das funções**
-
+void bluetooth();
+void estavel();
+void radio();
 
 void loop(){
   Serial.begin(9600);
   robo.begin();
   hcsr04.begin();
+  pinMode(LED, OUTPUT);
+  pinMode(BUZZER, OUTPUT);
+  pinMode(DIVISOR, INPUT);
+  pinMode(ENC1, INPUT);
+  pinMode(ENC2, INPUT);
+  //interrupção pro encoder
 }
 
 void setup(){
@@ -56,3 +64,12 @@ void setup(){
 }
 
 //**definição das funções**
+void bluetooth(){
+  
+}
+void estavel(){
+  
+}
+void radio(){
+  
+}
