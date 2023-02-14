@@ -1,19 +1,17 @@
-#ifndef PID_H
-#define PID_H
+#pragma once
 
 #include <Arduino.h>
 
 class PID{
 private:
   float kp, ki, kd;
-  int prevError;
-  double integral;
+  float prevError;
+  float integral;
   unsigned long prevTime;
   int minOutput, maxOutput;
-  double input, output, setPoint;
 public:
-  PID(double &input_, double &output_, double &setPoint_, float kp_, float ki_, float kd_);
-  void calibrate();
+  PID(float kp_, float ki_, float kd_);
+  void calibrate(float input, float &output, float setPoint);
   void set_kp(float kp_){
     kp = kp_;
   }
@@ -24,5 +22,3 @@ public:
     kd = kd_;
   }
 };
-
-#endif
