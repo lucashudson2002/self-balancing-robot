@@ -49,5 +49,5 @@ push
 *.html
 *.drc
 
-/.pio
-/.vscode
+.pio
+.vscode
