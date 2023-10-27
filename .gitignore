@@ -48,3 +48,6 @@ push
 *.rte
 *.html
 *.drc
+
+/.pio
+/.vscode
