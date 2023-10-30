@@ -83,34 +83,38 @@ GenerateClassCluster=0
 DocumentUniqueId=MXEMBIXD
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for project\pcb.DRR
+DocumentPath=Project Outputs for project\Design Rule Check - pcb.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for project\pcb.EXTREP
+DocumentPath=Project Outputs for project\pcb.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for project\pcb.GBL
+DocumentPath=Project Outputs for project\pcb.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for project\pcb.GM1
+DocumentPath=Project Outputs for project\pcb.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for project\pcb.GTL
+DocumentPath=Project Outputs for project\pcb.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for project\pcb.LDP
+DocumentPath=Project Outputs for project\pcb.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for project\pcb.REP
+DocumentPath=Project Outputs for project\pcb.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
+DocumentPath=Project Outputs for project\pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
 DocumentPath=Project Outputs for project\pcb.TXT
 DItemRevisionGUID=
 
@@ -849,22 +853,6 @@ Type117=1
 Type118=1
 Type119=1
 Type120=1
-Type121=1
-Type122=1
-Type123=1
-Type124=1
-Type125=1
-Type126=1
-Type127=1
-Type128=1
-Type129=1
-Type130=1
-Type131=1
-Type132=1
-Type133=1
-Type134=1
-Type135=1
-Type136=1
 
 [Difference Levels]
 Type1=1
@@ -935,12 +923,6 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
-Type69=1
-Type70=1
-Type71=1
-Type72=1
-Type73=1
-Type74=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1062,7 +1044,6 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
-MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1
@@ -1070,30 +1051,6 @@ Type124=1
 Type125=1
 Type126=1
 Type127=1
-Type128=2
-Type129=2
-Type130=2
-Type131=2
-Type132=2
-Type133=2
-Type134=2
-Type135=2
-Type136=2
-Type137=2
-Type138=1
-Type139=1
-Type140=1
-Type141=1
-Type142=1
-Type143=1
-Type144=1
-Type145=1
-Type146=1
-Type147=2
-Type148=2
-Type149=2
-Type150=2
-Type151=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
