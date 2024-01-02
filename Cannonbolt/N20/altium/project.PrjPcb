@@ -116,23 +116,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HMFBNHUP
 
-[Document5]
-DocumentPath=mini360.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KNHEZMAS
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for project\Design Rule Check - pcb.html
 DItemRevisionGUID=
@@ -142,34 +125,174 @@ DocumentPath=Project Outputs for project\pcb-RectHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for project\pcb.DRR
+DocumentPath=Project Outputs for project\pcb-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for project\pcb.EXTREP
+DocumentPath=Project Outputs for project\pcb-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for project\pcb.GBL
+DocumentPath=Project Outputs for project\pcb.1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for project\pcb.GM1
+DocumentPath=Project Outputs for project\pcb.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for project\pcb.GTL
+DocumentPath=Project Outputs for project\pcb.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for project\pcb.LDP
+DocumentPath=Project Outputs for project\pcb.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for project\pcb.REP
+DocumentPath=Project Outputs for project\pcb.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
+DocumentPath=Project Outputs for project\pcb.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for project\pcb.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for project\pcb.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for project\pcb.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for project\pcb.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for project\pcb.GM
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for project\pcb.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for project\pcb.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for project\pcb.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for project\pcb.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for project\pcb.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for project\pcb.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for project\pcb.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for project\pcb.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for project\pcb.GM9
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for project\pcb.GM11
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for project\pcb.GM12
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for project\pcb.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for project\pcb.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for project\pcb.GM17
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for project\pcb.GM22
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for project\pcb.GM23
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for project\pcb.GM24
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for project\pcb.GM25
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for project\pcb.GM26
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for project\pcb.GM27
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for project\pcb.GML
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for project\pcb.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for project\pcb.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for project\pcb.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for project\pcb.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for project\pcb.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for project\pcb.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for project\pcb.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for project\pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
 DocumentPath=Project Outputs for project\pcb.TXT
 DItemRevisionGUID=
 
@@ -476,7 +599,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Lucas Hudson\Desktop\github\self-balancing-robot\Bigweld\altium\JGB37-520\pcb.PcbDoc
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Lucas Hudson\Desktop\GitHub\self-balancing-robot\Cannonbolt\N20\altium\pcb.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -501,7 +624,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=QWRTPYUN|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16908289~1|PlotBoardProfile=False|PlotBoardProfileFileName=pcb.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=pcb.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=pcb.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=C:\Users\Lucas Hudson\Desktop\github\self-balancing-robot\Bigweld\altium\JGB37-520\pcb.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=QWRTPYUN|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set="All Layers","Component Layers","Signal Layers","Electrical Layers"|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973837~1,16973848~1,16973849~1,16908289~1|PlotBoardProfile=True|PlotBoardProfileFileName=pcb.GM|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=pcb.GD1|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=pcb.GG1|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Lucas Hudson\Desktop\GitHub\self-balancing-robot\Cannonbolt\N20\altium\pcb.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -908,6 +1031,22 @@ Type117=1
 Type118=1
 Type119=1
 Type120=1
+Type121=1
+Type122=1
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=1
+Type129=1
+Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
 
 [Difference Levels]
 Type1=1
@@ -978,6 +1117,12 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1099,6 +1244,7 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
+MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1
@@ -1106,6 +1252,30 @@ Type124=1
 Type125=1
 Type126=1
 Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
